@@ -65,4 +65,4 @@ wsServer.on('connection', (ws, req) => {
 });
 
 
-server.listen(port, () => console.log('Server started'));
+server.listen(port, () => console.log('Server started!'));
